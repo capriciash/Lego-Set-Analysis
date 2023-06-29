@@ -3,3 +3,6 @@
 
 # Ignore jupyter notebook checkpoints
 .ipynb*
+
+# Ignore data files
+.\\data\\*.csv
