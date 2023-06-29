@@ -1,2 +1,5 @@
 # Ignore files related to API Keys
 .env
+
+# Ignore jupyter notebook checkpoints
+.ipynb*
