@@ -5,4 +5,4 @@
 .ipynb*
 
 # Ignore data files
-.\\data\\*.csv
+data/*.csv
